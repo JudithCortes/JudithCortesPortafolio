@@ -1,0 +1,42 @@
+.formulario{
+    margin-top: 30px;
+}
+
+.form-group{
+margin-top: 1%;
+margin-right: 5%;
+margin-left: 5%;
+}
+
+.info{
+    margin-top: 30px;
+}
+
+p{
+text-align: left;
+margin-left: 20%;
+display: inline;
+}
+
+h1{
+    margin:4%;
+    display: inline;
+}
+
+img{
+    width: 60px;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 5%;
+}
+
+a{
+    text-align: right;
+}
+
+.g{
+    width: 30px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: 15%
+}

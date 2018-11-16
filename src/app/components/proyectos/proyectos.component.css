@@ -1,0 +1,15 @@
+body{
+    background-color: #d4a762;
+}
+.row{
+    margin-top: 30px;
+}
+
+.ecole{
+    display: inline;
+}
+
+img{
+    max-width:280px;
+    max-height:412px;
+}
