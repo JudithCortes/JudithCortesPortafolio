@@ -1,14 +1,4 @@
-html{
-    background-color: #4f637b;
+.container{
+    background-color: #63666b4f;
 }
 
-.card{
-    width: 150px;
-    height: 150px;
-    margin-right: 17px; 
-}
-
-span{
-    margin-left: 23px;
-    margin-right: 10px;
-}
